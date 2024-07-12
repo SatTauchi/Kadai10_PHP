@@ -19,7 +19,8 @@ https://bluebat2024.sakura.ne.jp/kadai10_Sakura2/index.html
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
-- なし
+- ID : Satoru Tauchi
+- PW : user1
 
 ## ⑤工夫した点・こだわった点
 
